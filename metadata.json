@@ -1,0 +1,8 @@
+{
+  "name": "Project ASSIST",
+  "description": "Academic Support System for Inspiring Student Transformation - A comprehensive LMS with social and AI features.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
